@@ -15,7 +15,7 @@ English|[中文](README.zh-cn.md)
 
 ### For uBlacklist
 1. Open Options page of uBlacklist, click "Add a subscription" button under Subscription section.
-2. In URL, input "https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST"
+2. In URL, input [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST_uBlacklist](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST_uBlacklist)
 
 ### For all other extensions
 1. Open [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST);

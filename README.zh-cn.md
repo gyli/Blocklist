@@ -15,7 +15,7 @@ Blocklist 是一份用来屏蔽搜索引擎结果的垃圾网站列表。
 
 ### 对于 uBlacklist
 1. 打开 uBlacklist 的选项页, 点击 Subscription 栏目下的“Add a subscription”按钮；
-2. 在弹出窗口中的 URL 输入栏中，输入“https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST”。
+2. 在弹出窗口中的 URL 输入栏中，输入 [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST_uBlacklist](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST_uBlacklist)。
 
 ### 对于其他拓展
 1. 打开 [https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST](https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST)；
