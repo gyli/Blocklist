@@ -1,4 +1,11 @@
 # Blocklist
+
+---
+
+DEPRECATION: The list will no longer be updated!
+
+---
+
 List of shit websites for blocking Google search result.
 
 It works with several Chrome Extensions and User scripts, including:
